@@ -18,7 +18,7 @@ The use case for this Python script is to list users in Dataiku who have not log
 3. **Efficient User Management**: Saves time for administrators by automating the process of checking user activity.
 4. **Compliance**: Ensures that the organization follows internal policies related to data access and user management.
 5. **Scalability**: This script can be scheduled to run periodically (e.g., monthly) to keep track of user activity without manual intervention.
-
+ 
 ### Optional Enhancements:
 - **Scheduling**: Use a task scheduler like cron (Linux) or Task Scheduler (Windows) to automate running the script periodically.
 - **Report Generation**: Output the list of inactive users to a CSV file or send an email notification to administrators.
